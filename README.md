@@ -3,9 +3,7 @@ Let's dump any useful sources here so that we can share it.
 
 Papers/Citations
 
-1. https://www.christophtrattner.info/pubs/UMUAI2018.pdf
-
-Content-based artwork recommendation using deep neural network.
+1. Content-based artwork recommendation using deep neural network: https://www.christophtrattner.info/pubs/UMUAI2018.pdf
 
 2. Wavelet analysis of images/paintings: http://www.cs.albany.edu/~lsw/papers/artmath05.pdf?fbclid=IwAR222MY4nfOLwtJpvvWpMYiEr7d7MsWpcD-XdjhvgC6Et_SyhSRlCtp9HWs
 
