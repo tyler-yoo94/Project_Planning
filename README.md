@@ -19,5 +19,7 @@ Methodology resources/examples:
 2. Image Analysis in python:
       https://dzone.com/articles/image-data-analysis-using-numpy-amp-opencv
 
+3. Fourier transformation of images (with examples!):
+https://homepages.inf.ed.ac.uk/rbf/HIPR2/fourier.htm?fbclid=IwAR13t9VTIgHMP28giCfS5GDb-8clbLk97yMXQsaJveVj_cySkk330gvnh-I
 
 
