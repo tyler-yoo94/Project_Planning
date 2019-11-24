@@ -10,7 +10,7 @@ Content-based artwork recommendation using deep neural network.
 
 Methodology resources/examples:
 
-1. Fractal analysis
+1. Fractal analysis:
       https://francescoturci.net/2016/03/31/box-counting-in-numpy/
 
 2. Image Analysis in python:
