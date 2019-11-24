@@ -7,6 +7,11 @@ Papers/Citations
 
 Content-based artwork recommendation using deep neural network.
 
+2. Wavelet analysis of images/paintings: http://www.cs.albany.edu/~lsw/papers/artmath05.pdf?fbclid=IwAR222MY4nfOLwtJpvvWpMYiEr7d7MsWpcD-XdjhvgC6Et_SyhSRlCtp9HWs
+
+3. Fractal analysis of Pollock paintings:
+http://www.bowdoin.edu/~mirfan/papers/Irfan_Stork_Pollock_2009.pdf?fbclid=IwAR2lK_8x3KVc4l2YdSxXW1d2NUhnUCXldGA7tBLN_jke8mSD-aJclBmq5eU
+ 
 
 Methodology resources/examples:
 
@@ -16,7 +21,5 @@ Methodology resources/examples:
 2. Image Analysis in python:
       https://dzone.com/articles/image-data-analysis-using-numpy-amp-opencv
 
-3. Fractal analysis of Pollock paintings:
-http://www.bowdoin.edu/~mirfan/papers/Irfan_Stork_Pollock_2009.pdf?fbclid=IwAR2lK_8x3KVc4l2YdSxXW1d2NUhnUCXldGA7tBLN_jke8mSD-aJclBmq5eU
- 
+
 
