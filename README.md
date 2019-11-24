@@ -23,3 +23,6 @@ Methodology resources/examples:
 https://homepages.inf.ed.ac.uk/rbf/HIPR2/fourier.htm?fbclid=IwAR13t9VTIgHMP28giCfS5GDb-8clbLk97yMXQsaJveVj_cySkk330gvnh-I
 
 
+Data sources:
+
+1. Met artwork database: https://www.metmuseum.org/art/collection/search#!?showOnly=openAccess&offset=0&pageSize=0&sortOrder=asc&perPage=20&searchField=All&material=Paintings
